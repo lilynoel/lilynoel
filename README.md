@@ -48,12 +48,14 @@ Ruby • Rails • HTML • CSS
 #
 
 
-<h3 align="center">Let's Connect ♥️</h3>
+<h3 align="center">Let's Connect!</h3>
 
 <div id="connect" align="center"
 
 <!-- twitter -->
-[<img alt="twitter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lilynoel/)
+[<img alt="twitter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="27px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lilynoel/)
+<br>
+♥️
 
 </div>
 
