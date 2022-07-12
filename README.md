@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=""/>
 
-
-
 ### Hi, I'm Lily ✨
 
-Aspiring Software Engineer • 🌱 Full Stack WebDev Student <br>
-Currently studying @ Coder Academy 🌻 <br>
+Aspiring Software Engineer • Full Stack WebDev Student 🌱 <br>
+Currently studying at Coder Academy. 
   
   <!--
 • 🌱 WebDev student & aspiring software engineer ✨ • <br>
