@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=""/>
+</div>
 
-<!--
-**lilynoel/lilynoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Lily ✨👋 
 
-Here are some ideas to get you started:
+- 🌱 Web Dev student & aspiring software engineer
+- 🎓 Currently studying @ Coder Academy!
+- 🌻 Amateur photographer & graphic artist 👩‍🎨
+- 🌏 Sydney, AU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### Tech Stack 
+
+Ruby • Rails • HTML • CSS 
+<br>
+*Next Term:* JavaScript
+
+#
+
+### Let's Connect ♥️
+
+[LinkedIn](https://www.linkedin.com/in/lilynoel/) 
+| [Twitter](https://twitter.com/_LilyCodes)
+
+
