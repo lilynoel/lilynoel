@@ -1,8 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width=""/>
-</div>
 
 ### Hi, I'm Lily ✨👋 
+
+</div>
+
+
 
 - 🌱 Web Dev student & aspiring software engineer
 - 🎓 Currently studying @ Coder Academy!
