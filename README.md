@@ -3,13 +3,18 @@
 
 
 
-### Hi, I'm Lily 👋 
+### Hi, I'm Lily ✨
 
+Aspiring Software Engineer • 🌱 Full Stack WebDev Student <br>
+Currently studying @ Coder Academy 🌻 <br>
+  
+  <!--
+• 🌱 WebDev student & aspiring software engineer ✨ • <br>
+• 🌻 Currently studying @ Coder Academy! • <br>
+• 🌏 Sydney, AU • -->
+  
 </div>
 
-- 🌱 WebDev student & aspiring software engineer ✨
-- 🌻 Currently studying @ Coder Academy!
-- 🌏 Sydney, AU
 
 #
 
@@ -32,26 +37,26 @@
 <!-- js 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60"/> -->
 
-
-</div>
-
 Ruby • Rails • HTML • CSS 
 <br>
-*Next Term:* JavaScript
+*Learning:* JavaScript
+  
+</div>
+
+
 
 #
+
+
+<h3 align="center">Let's Connect ♥️</h3>
 
 <div id="connect" align="center"
 
 <!-- twitter -->
-[<img alt="twitter" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://www.twitter.com/_lilycodes)
-
+[<img alt="twitter" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/lilynoel/)
 
 </div>
 
-### Let's Connect ♥️
 
-[LinkedIn](https://www.linkedin.com/in/lilynoel/) 
-| [Twitter](https://twitter.com/_LilyCodes)
 
 
