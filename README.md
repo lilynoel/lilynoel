@@ -30,7 +30,7 @@ Ruby • Rails • HTML • CSS
 
 <div id="connect" align="center">
 
-<img src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" width="200"/>
+[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 ### Let's Connect!
 
