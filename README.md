@@ -1,15 +1,11 @@
 <div id="header" align="center">
-<img src="https://static.wixstatic.com/media/88104f_3a97859e9c6c4e2da9b45d2159c613aa~mv2.png" alt=“portrait” width="300"/>
+
+[<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_3a97859e9c6c4e2da9b45d2159c613aa~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 ### Hi, I'm Lily ✨
 
 Aspiring Software Engineer • Full Stack WebDev Student 🌱 <br>
-Currently studying at Coder Academy. 
-  
-  <!--
-• 🌱 WebDev student & aspiring software engineer ✨ • <br>
-• 🌻 Currently studying @ Coder Academy! • <br>
-• 🌏 Sydney, AU • -->
+Currently studying at Coder Academy!
   
 </div>
 
@@ -34,7 +30,7 @@ Ruby • Rails • HTML • CSS
 
 <div id="connect" align="center">
 
-<!-- <img src="https://static.wixstatic.com/media/88104f_1e45a89d205b44e786f517f8c3656806~mv2.png" width="200"/> -->
+<img src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" width="200"/>
 
 ### Let's Connect!
 
