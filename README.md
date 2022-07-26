@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
 
 [<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_3a97859e9c6c4e2da9b45d2159c613aa~mv2.png" />](https://www.twitter.com/_lilycodes)
 
@@ -12,7 +12,7 @@ Currently studying at Coder Academy!
 
 #
 
-<div id="stack" align="center">
+<div id="stack" align="left">
 
 ### Tech Stack 
 
@@ -28,19 +28,20 @@ Ruby • Rails • HTML • CSS
 
 #
 
-<div id="connect" align="center">
-
-[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
+<div id="connect" align="left">
 
 ### Let's Connect!
 
 <!-- twitter -->
 [<img alt="twitter" width="27px" src="https://static.wixstatic.com/media/88104f_03f1210f3a454d7886300958c907b371~mv2.png" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="27px" src="https://static.wixstatic.com/media/88104f_e1c0cd25e06b499e91cf20d03efd5e18~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
-<br>
+
 ♥️
 
 </div>
 
+#
 
+
+[<img alt="twitter" width="100px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 
