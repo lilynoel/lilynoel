@@ -17,7 +17,7 @@ Currently studying at Coder Academy!
 ### Tech Stack 
 
 <!-- ruby -->
-[<img alt="ruby" width="37px" src="https://static.wixstatic.com/media/88104f_e41fdc4749454527a2b2e11305e6cdfc~mv2.png" />](https://www.ruby-lang.org/en/) <!-- rails --> [<img alt="rails" width="37px" src="https://static.wixstatic.com/media/88104f_6b174e0cc75f48cf83b964b0157e5125~mv2.png" />](https://rubyonrails.org/) <!-- html --> [<img alt="html" width="37px" src="https://static.wixstatic.com/media/88104f_1fbd8af50c0c4afdaf0de4952327903c~mv2.png" />](https://html.com/) <!-- css --> [<img alt="css" width="37px" src="https://static.wixstatic.com/media/88104f_db2cb3e4af8e499f93a6df6b85970f74~mv2.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS) <!-- js --> [<img alt="js" width="37px" src="https://static.wixstatic.com/media/88104f_7fae70586b434aaaa63a4c2fec09473d~mv2.png" />](https://www.javascript.com/)
+[<img alt="ruby" width="37px" src="https://static.wixstatic.com/media/88104f_455c8b8ed4314b6ba5574d7a2577c448~mv2.png" />](https://www.ruby-lang.org/en/) <!-- rails --> [<img alt="rails" width="37px" src="https://static.wixstatic.com/media/88104f_b41f213b85f34692a996bc4749bbef46~mv2.png" />](https://rubyonrails.org/) <!-- html --> [<img alt="html" width="37px" src="https://static.wixstatic.com/media/88104f_601fb2cda1b44e84a498d7cb70857d29~mv2.png" />](https://html.com/) <!-- css --> [<img alt="css" width="37px" src="https://static.wixstatic.com/media/88104f_886ed37836994293b2b9973ced30890f~mv2.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS) <!-- js --> [<img alt="js" width="37px" src="https://static.wixstatic.com/media/88104f_bc9b59ab62ca4c3ea3ad6a2eb8b9105a~mv2.png" />](https://www.javascript.com/)
 
 Ruby • Rails • HTML • CSS 
 <br>
@@ -33,12 +33,12 @@ Ruby • Rails • HTML • CSS
 ### Let's Connect!
 
 <!-- twitter -->
-[<img alt="twitter" width="27px" src="https://static.wixstatic.com/media/88104f_03f1210f3a454d7886300958c907b371~mv2.png" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="27px" src="https://static.wixstatic.com/media/88104f_e1c0cd25e06b499e91cf20d03efd5e18~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
+[<img alt="twitter" width="27px" src="https://static.wixstatic.com/media/88104f_0dfd40ebba5a41858f0e423f3a27bf55~mv2.png" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="27px" src="https://static.wixstatic.com/media/88104f_70b316e5fbce4abd8d5e20a9ec28c4b1~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
 
 #
 
 
-[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
+[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_bf732a22c84b401984368823c34e9a3a~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 
 </div>
