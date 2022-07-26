@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
 
 [<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_3a97859e9c6c4e2da9b45d2159c613aa~mv2.png" />](https://www.twitter.com/_lilycodes)
 
@@ -12,7 +12,7 @@ Currently studying at Coder Academy!
 
 #
 
-<div id="stack" align="left">
+<div id="stack" align="center">
 
 ### Tech Stack 
 
@@ -28,7 +28,7 @@ Ruby • Rails • HTML • CSS
 
 #
 
-<div id="connect" align="left">
+<div id="connect" align="center">
 
 ### Let's Connect!
 
@@ -37,11 +37,12 @@ Ruby • Rails • HTML • CSS
 
 ♥️
 
-</div>
+
 
 #
 
 
-[<img alt="twitter" width="100px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
+[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 
+</div>
