@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-[<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_28f7d60ae4ff47a19f38c9e6225ae6d4~mv2.png" />](https://www.twitter.com/_lilycodes)
+[<img alt="twitter" width="300px" src="https://static.wixstatic.com/media/88104f_3a97859e9c6c4e2da9b45d2159c613aa~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 ### Hi, I'm Lily ✨
 
@@ -38,7 +38,7 @@ Ruby • Rails • HTML • CSS
 #
 
 
-[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_f8d18cadbc2c46ab881ccd9cbdb4bd7f~mv2.png" />](https://www.twitter.com/_lilycodes)
+[<img alt="twitter" width="200px" src="https://static.wixstatic.com/media/88104f_b90ee83860954c5c8d321a5173f87129~mv2.png" />](https://www.twitter.com/_lilycodes)
 
 
 </div>
