@@ -17,7 +17,9 @@ Currently studying at Coder Academy!
 ### Tech Stack 
 
 <!-- ruby -->
-[<img alt="ruby" width="37px" src="https://static.wixstatic.com/media/88104f_455c8b8ed4314b6ba5574d7a2577c448~mv2.png" />](https://www.ruby-lang.org/en/) <!-- rails --> [<img alt="rails" width="37px" src="https://static.wixstatic.com/media/88104f_b41f213b85f34692a996bc4749bbef46~mv2.png" />](https://rubyonrails.org/) <!-- html --> [<img alt="html" width="37px" src="https://static.wixstatic.com/media/88104f_601fb2cda1b44e84a498d7cb70857d29~mv2.png" />](https://html.com/) <!-- css --> [<img alt="css" width="37px" src="https://static.wixstatic.com/media/88104f_886ed37836994293b2b9973ced30890f~mv2.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS) <!-- js --> [<img alt="js" width="37px" src="https://static.wixstatic.com/media/88104f_bc9b59ab62ca4c3ea3ad6a2eb8b9105a~mv2.png" />](https://www.javascript.com/)
+[<img alt="ruby" width="37px" src="https://static.wixstatic.com/media/88104f_455c8b8ed4314b6ba5574d7a2577c448~mv2.png" />](https://www.ruby-lang.org/en/) <!-- rails --> [<img alt="rails" width="37px" src="https://static.wixstatic.com/media/88104f_b41f213b85f34692a996bc4749bbef46~mv2.png" />](https://rubyonrails.org/) <!-- html --> [<img alt="html" width="37px" src="https://static.wixstatic.com/media/88104f_601fb2cda1b44e84a498d7cb70857d29~mv2.png" />](https://html.com/) <!-- css --> [<img alt="css" width="37px" src="https://static.wixstatic.com/media/88104f_886ed37836994293b2b9973ced30890f~mv2.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS) <!-- js --> [<img alt="js" width="37px" src="https://static.wixstatic.com/media/88104f_bc9b59ab62ca4c3ea3ad6a2eb8b9105a~mv2.png" />](https://www.javascript.com/) <!-- react --> [<img alt="css" width="40px" src="https://static.wixstatic.com/media/88104f_7a0a1ea92990473f88e78225493ba0ef~mv2.png" />](https://reactjs.org/)
+
+
 
 Ruby • Rails • HTML • CSS 
 <br>
