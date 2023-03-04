@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**lilynoel/lilynoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img alt="header" width="300px" src="https://static.wixstatic.com/media/88104f_63e74a61eb6348a393bd13d88e0b8e92~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
 
-Here are some ideas to get you started:
+ #
+<!-- tech stack -->
+  
+ ### Tech stack
+ 
+ [<img alt="stack" width="300px" src="https://static.wixstatic.com/media/88104f_93d71b360988438d927fd8ed76645308~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+  
+
+### Connect
+<!-- twitter -->
+[<img alt="twitter" width="30px" src="https://static.wixstatic.com/media/88104f_33926d7841094668b475781d3ab462fb~mv2.png" />](https://www.twitter.com/_lilycodes) <!-- linkedin --> [<img alt="linkedin" width="30px" src="https://static.wixstatic.com/media/88104f_96ffb018f3544c68930eb15488b54b3a~mv2.png" />](https://www.linkedin.com/in/lilynoel/)
+
+</div>
